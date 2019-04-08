@@ -1,4 +1,4 @@
-# Logistic-vs-NaiveBayes
+# Logistic Regression-vs-NaiveBayes
 
 This project is created to analyze the performance of Naïve Bayes and Logistic Regression on 20newsgroups dataset.In this dataset, each document is a posting that was made to one of 20 different newsgroups.
 
