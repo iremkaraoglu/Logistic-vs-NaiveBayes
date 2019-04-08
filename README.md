@@ -6,6 +6,4 @@ I tested both classifiers for 10% train data, 30%, 50% and 100%. In the end I pl
 
 This project is written on Jupyter Notebook. numpy, matplotlib.pyplot, seaborn, scikitlearn modules are used. To run the code you need Jupyter notebook. If it is not installed, you need to download Anaconda. Then, type "jupyter notebook" in the terminal. 
 
-As a result, Logistic Regression results more accurate then Naive Bayes.
-
-- Same code added in a .py format also
+Same code added in a .py format also
